@@ -1,0 +1,27 @@
+# Slicer output
+out/
+*.gcode
+*.gcode.3mf
+
+# Model files (don't commit binary meshes)
+*.stl
+*.3mf
+*.obj
+*.step
+*.stp
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs / temp
+*.log
+tmp/
+temp/
