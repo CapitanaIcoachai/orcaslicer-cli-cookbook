@@ -249,11 +249,11 @@ MIT — see [LICENSE](LICENSE). Contributions and additional recipes welcome.
 ## See also
 Part of a small collection of **local-first AI** and **ESP32 / maker** tools:
 
-- [sqlite-memory](https://github.com/poerio1985-svg/sqlite-memory) — persistent long-term memory for local LLMs
-- [sqlite-rag](https://github.com/poerio1985-svg/sqlite-rag) — minimal RAG — embeddings + cosine in SQLite, no vector DB
-- [ollama-doctor](https://github.com/poerio1985-svg/ollama-doctor) — find out why Ollama is slow (CPU offload / VRAM)
-- [local-voice-edge](https://github.com/poerio1985-svg/local-voice-edge) — ESP32 voice assistant + local STT→LLM→TTS server
-- [axs15231b-landscape-lvgl](https://github.com/poerio1985-svg/axs15231b-landscape-lvgl) — 3.5" AXS15231B QSPI panel in landscape with LVGL
-- [guition-esp32p4-lvgl9](https://github.com/poerio1985-svg/guition-esp32p4-lvgl9) — Guition 7" ESP32-P4 + LVGL 9 baseline
+- [sqlite-memory](https://github.com/CapitanaIcoachai/sqlite-memory) — persistent long-term memory for local LLMs
+- [sqlite-rag](https://github.com/CapitanaIcoachai/sqlite-rag) — minimal RAG — embeddings + cosine in SQLite, no vector DB
+- [ollama-doctor](https://github.com/CapitanaIcoachai/ollama-doctor) — find out why Ollama is slow (CPU offload / VRAM)
+- [local-voice-edge](https://github.com/CapitanaIcoachai/local-voice-edge) — ESP32 voice assistant + local STT→LLM→TTS server
+- [axs15231b-landscape-lvgl](https://github.com/CapitanaIcoachai/axs15231b-landscape-lvgl) — 3.5" AXS15231B QSPI panel in landscape with LVGL
+- [guition-esp32p4-lvgl9](https://github.com/CapitanaIcoachai/guition-esp32p4-lvgl9) — Guition 7" ESP32-P4 + LVGL 9 baseline
 
 ⭐ If this saved you time, a star helps others find it.
